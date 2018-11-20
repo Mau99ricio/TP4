@@ -1,6 +1,8 @@
-#include "RedNeuronal.h"
+#include<RedNeuronal.h>
 
 RedNeuronal::RedNeuronal()
 {
+}
+void AgregarCapa(Capa capa){
 
 }

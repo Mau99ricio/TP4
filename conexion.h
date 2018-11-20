@@ -1,14 +1,14 @@
 #ifndef CONEXION_H
 #define CONEXION_H
 #include<Neurona.h>
-
+class Neurona;
 class Conexion
 {
 
 public:
-    Neurona r;
+    Neurona *r;
     float peso;
-    Conexion();
+    Conexion(Neurona *neurona,float peso);
 
 };
 

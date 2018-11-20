@@ -28,16 +28,17 @@ SOURCES += \
         mainwindow.cpp \
     Conexion.cpp \
     Neurona.cpp \
-    RedNeuronal.cpp
+    RedNeuronal.cpp \
+    Capa.cpp
 
 HEADERS += \
         mainwindow.h \
     Capa.h \
     Conexion.h \
     Lista.h \
-    Neurona.h \
     Nodo.h \
-    RedNeuronal.h
+    RedNeuronal.h \
+    Neurona.h
 
 FORMS += \
         mainwindow.ui
