@@ -1,6 +1,6 @@
 #include <capa.h>
-Capa::Capa(){
+Capa::capa(){
   }
-void Capa::AgregarNeurona(Neurona neurona){
-    neuronas.Insertar(neurona);
+void Capa::AgregarNeurona(Neurona neu){
+    neuronas.Insertar(neu);
 }

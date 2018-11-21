@@ -4,5 +4,5 @@ RedNeuronal::RedNeuronal()
 {
 }
 void AgregarCapa(Capa capa){
-
+capas.
 }
