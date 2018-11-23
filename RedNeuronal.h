@@ -12,6 +12,7 @@ public:
     RedNeuronal();
     void AgregarCapa(Capa capa);
     void Entrenar ();
+    float funcionActivacion(float x);
 };
 
 #endif // RED_H
