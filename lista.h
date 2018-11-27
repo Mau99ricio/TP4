@@ -10,8 +10,8 @@ public:
     Lista<T>(){ cabeza= nullptr ;}
 
     void Insertar(T dato) {
-        Nodo<T>* n = new Nodo<T>(dato) ;
-        Nodo<T>* t= cabeza ;
+        Nodo<T> *n = new Nodo<T>(dato);
+        Nodo<T> *t= cabeza ;
         cabeza = n ;
         cabeza->setSiguiente(t);
     }

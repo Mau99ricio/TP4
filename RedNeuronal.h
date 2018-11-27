@@ -10,9 +10,10 @@ class RedNeuronal
 public:
     Lista<Capa*> capas;
     RedNeuronal();
-    void AgregarCapa(Capa capa);
+    void AgregarCapa(Capa *capa);
     void Entrenar ();
-    float funcionActivacion(float x);
+    float funcionActivacion(float x,int i);
+  //  Capa capaAnterior(int i){return  capas.getI(i-1);}
 };
 
 #endif // RED_H

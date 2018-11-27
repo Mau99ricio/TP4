@@ -5,3 +5,6 @@ Conexion::Conexion(Neurona *neurona,float peso)
     this->peso=peso;
 
 }
+float Conexion::getPeso(){
+    return this->peso;
+}
