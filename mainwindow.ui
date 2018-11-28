@@ -46,162 +46,137 @@
       <x>10</x>
       <y>10</y>
       <width>256</width>
-      <height>561</height>
+      <height>471</height>
      </rect>
     </property>
     <column>
      <property name="text">
-      <string>1</string>
+      <string>Canciones</string>
      </property>
     </column>
     <item>
      <property name="text">
-      <string>1</string>
+      <string>Te bote</string>
      </property>
     </item>
     <item>
      <property name="text">
-      <string>2</string>
+      <string>Rakata</string>
      </property>
     </item>
     <item>
      <property name="text">
-      <string>3</string>
+      <string>Se preparo</string>
      </property>
     </item>
     <item>
      <property name="text">
-      <string>4</string>
+      <string>La ocasion</string>
      </property>
     </item>
     <item>
      <property name="text">
-      <string>5</string>
+      <string>Ginza(reggaeton)</string>
      </property>
     </item>
     <item>
      <property name="text">
-      <string>6</string>
+      <string>Hammer Smashedface</string>
      </property>
     </item>
     <item>
      <property name="text">
-      <string>7</string>
+      <string>Scream Bloody Gore</string>
      </property>
     </item>
     <item>
      <property name="text">
-      <string>8</string>
+      <string>Movring Palace</string>
      </property>
     </item>
     <item>
      <property name="text">
-      <string>9</string>
+      <string>I Hate</string>
      </property>
     </item>
     <item>
      <property name="text">
-      <string>10</string>
+      <string>Left Hand Path</string>
      </property>
     </item>
     <item>
      <property name="text">
-      <string>11</string>
+      <string>Billie Jean</string>
      </property>
     </item>
     <item>
      <property name="text">
-      <string>12</string>
+      <string>Like a Virgin</string>
      </property>
     </item>
     <item>
      <property name="text">
-      <string>13</string>
+      <string>Girls just Wamma</string>
      </property>
     </item>
     <item>
      <property name="text">
-      <string>14</string>
+      <string>Everybody</string>
      </property>
     </item>
     <item>
      <property name="text">
-      <string>15</string>
+      <string>I wanna Dance</string>
      </property>
     </item>
     <item>
      <property name="text">
-      <string>16</string>
+      <string>Dejaria todo</string>
      </property>
     </item>
     <item>
      <property name="text">
-      <string>17</string>
+      <string>Tu de que vas</string>
      </property>
     </item>
     <item>
      <property name="text">
-      <string>18</string>
+      <string>Mujeres</string>
      </property>
     </item>
     <item>
      <property name="text">
-      <string>19</string>
+      <string>La incondicional</string>
      </property>
     </item>
     <item>
      <property name="text">
-      <string>20</string>
+      <string>A esa</string>
      </property>
     </item>
     <item>
      <property name="text">
-      <string>21</string>
+      <string>Heratbreaker</string>
      </property>
     </item>
     <item>
      <property name="text">
-      <string>22</string>
+      <string>Sabbath bloody</string>
      </property>
     </item>
     <item>
      <property name="text">
-      <string>23</string>
+      <string>Higway Star</string>
      </property>
     </item>
     <item>
      <property name="text">
-      <string>24</string>
+      <string>The Reaper</string>
      </property>
     </item>
     <item>
      <property name="text">
-      <string>25</string>
-     </property>
-    </item>
-    <item>
-     <property name="text">
-      <string>26</string>
-     </property>
-    </item>
-    <item>
-     <property name="text">
-      <string>27</string>
-     </property>
-    </item>
-    <item>
-     <property name="text">
-      <string>28</string>
-     </property>
-    </item>
-    <item>
-     <property name="text">
-      <string>29</string>
-     </property>
-    </item>
-    <item>
-     <property name="text">
-      <string>30</string>
+      <string>All along the watchtower</string>
      </property>
     </item>
    </widget>
