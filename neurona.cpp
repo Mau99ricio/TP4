@@ -14,3 +14,11 @@ void Neurona:: aplicarCarga(float carga){
 
      this->carga=carga;
 }
+int Neurona::datoCancion(string palabra){
+    int t = palabra.length();
+    int dato =0;
+    for (int i =0; i<t;i++){
+        dato += (int)palabra[i];
+    }
+    return dato;
+}

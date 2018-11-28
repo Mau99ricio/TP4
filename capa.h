@@ -9,7 +9,7 @@ public:
     Lista<Neurona*> neuronas;
 
     capa();
-    void AgregarNeurona(Neurona neurona);
+    void AgregarNeurona(Neurona *neurona);
 };
 
 #endif // CAPA_H

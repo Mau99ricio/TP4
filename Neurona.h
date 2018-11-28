@@ -13,6 +13,7 @@ public:
     Neurona();
     void AgregarConexion(Neurona *neurona, float peso);
     void aplicarCarga(float carga);
+    int datoCancion(string palabra);
 };
 
 #endif // NEURONA_H
