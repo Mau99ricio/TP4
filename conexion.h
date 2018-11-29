@@ -10,6 +10,7 @@ public:
     float peso;
     Conexion(Neurona *neurona,float peso);
     float getPeso();
+    Neurona* getNeurona();
 };
 
 #endif // CONEXION_H

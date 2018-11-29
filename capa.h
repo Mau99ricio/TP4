@@ -2,13 +2,13 @@
 #define CAPA_H
 #include<Lista.h>
 #include<Neurona.h>
-
+class Neurona;
 class Capa
 {
 public:
     Lista<Neurona*> neuronas;
 
-    capa();
+    Capa();
     void AgregarNeurona(Neurona *neurona);
 };
 

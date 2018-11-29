@@ -12,8 +12,9 @@ public:
     RedNeuronal();
     void AgregarCapa(Capa *capa);
     void Entrenar ();
-    float funcionActivacion(float x,int i);
+    float funcionActivacion(float x,int i, Neurona *actual);
   //  Capa capaAnterior(int i){return  capas.getI(i-1);}
 };
 
 #endif // RED_H
+
